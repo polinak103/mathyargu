@@ -1,0 +1,16 @@
+D:\учёба\project-to-do-list\Project\bin\Debug\Project.exe.config
+D:\учёба\project-to-do-list\Project\bin\Debug\Project.exe
+D:\учёба\project-to-do-list\Project\bin\Debug\Project.pdb
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\учёба\project-to-do-list\Project\obj\Debug\MainWindow.g.cs
+D:\учёба\project-to-do-list\Project\obj\Debug\App.g.cs
+D:\учёба\project-to-do-list\Project\obj\Debug\Project_MarkupCompile.cache
+D:\учёба\project-to-do-list\Project\obj\Debug\Project_MarkupCompile.lref
+D:\учёба\project-to-do-list\Project\obj\Debug\MainWindow.baml
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.g.resources
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.Properties.Resources.resources
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.exe
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.pdb

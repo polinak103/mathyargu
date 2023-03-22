@@ -1,0 +1,91 @@
+D:\учёба\project-to-do-list\Project\bin\Debug\Project.exe.config
+D:\учёба\project-to-do-list\Project\bin\Debug\Project.exe
+D:\учёба\project-to-do-list\Project\bin\Debug\Project.pdb
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\учёба\project-to-do-list\Project\obj\Debug\MainWindow.g.cs
+D:\учёба\project-to-do-list\Project\obj\Debug\App.g.cs
+D:\учёба\project-to-do-list\Project\obj\Debug\Project_MarkupCompile.cache
+D:\учёба\project-to-do-list\Project\obj\Debug\Project_MarkupCompile.lref
+D:\учёба\project-to-do-list\Project\obj\Debug\MainWindow.baml
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.g.resources
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.Properties.Resources.resources
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.exe
+D:\учёба\project-to-do-list\Project\obj\Debug\Project.pdb
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\bin\Debug\Project.exe.config
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\bin\Debug\Project.exe
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\bin\Debug\Project.pdb
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\MainWindow.g.cs
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\App.g.cs
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\MainWindow.baml
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\Project.g.resources
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\Project.exe
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\Project.pdb
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\bin\Debug\Project.exe.config
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\bin\Debug\Project.exe
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\bin\Debug\Project.pdb
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\MainWindow.g.cs
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\App.g.cs
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\MainWindow.baml
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project.g.resources
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project.exe
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project.pdb
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vsevolod&Isterichka\Desktop\tipa git\project-to-do-list\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\feodo\Documents\GitHub\project-to-do-list\Project\obj\Debug\Project.csproj.CopyComplete
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\bin\Debug\Project.exe.config
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\bin\Debug\Project.exe
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\bin\Debug\Project.pdb
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\bin\Debug\Newtonsoft.Json.dll
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\bin\Debug\Newtonsoft.Json.xml
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\MainWindow.g.cs
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\App.g.cs
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project_MarkupCompile.cache
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project_MarkupCompile.lref
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\MainWindow.baml
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project.g.resources
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project.Properties.Resources.resources
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project.csproj.CopyComplete
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project.exe
+D:\учёба\project-to-do-list\project-to-do-list-main\Project\obj\Debug\Project.pdb
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\bin\Debug\Project.exe.config
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\bin\Debug\Project.exe
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\bin\Debug\Project.pdb
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\bin\Debug\Newtonsoft.Json.dll
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\bin\Debug\Newtonsoft.Json.xml
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\MainWindow.g.cs
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\App.g.cs
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project_MarkupCompile.cache
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project_MarkupCompile.lref
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\MainWindow.baml
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project.g.resources
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project.Properties.Resources.resources
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project.csproj.CopyComplete
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project.exe
+D:\учёба\project-to-do-list-main\project-to-do-list-main\Project\obj\Debug\Project.pdb

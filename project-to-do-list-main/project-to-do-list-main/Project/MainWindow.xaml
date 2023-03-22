@@ -1,0 +1,64 @@
+﻿<Window x:Class="Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project"
+        mc:Ignorable="d"
+        Title="ToDoProject" Height="450" Width="800" Loaded="Window_Loaded" Background="#FF8ABFBF" Foreground="{x:Null}" FontFamily="Lucida Sans">
+
+  
+    <Grid x:Name="MainGrid" SnapsToDevicePixels="true">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StatusBar Grid.Row="1">
+            <TextBlock x:FieldModifier="private" x:Name="myDateTime"/>
+        </StatusBar>
+
+
+
+        <ListView ItemsSource="{Binding People.View}" SelectionMode="Single"  x:Name="dgToDoList" FontSize="17" FontWeight="ExtraBlack" Margin="10,23,10,5" >
+            <ListView.View>
+                <GridView>
+
+                    <GridViewColumn>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox Margin="0" VerticalAlignment="Center" IsChecked="{Binding IsChecked}"></CheckBox>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+
+
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Text}"  Header="Что нужно сделать" Width="280"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=CreationDate}"   Header="Дата создания" Width="180"/>
+
+                    <!--<DataGridTemplateColumn SortDirection="Ascending" Header="DeadLine" Width="*">-->
+                    <GridViewColumn  >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <DatePicker SelectedDate="{Binding Path=Deadline, Mode=TwoWay, UpdateSourceTrigger =PropertyChanged}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--</DataGridTemplateColumn>-->
+
+
+
+
+                </GridView>
+            </ListView.View>
+
+        </ListView>
+        
+        <!--<Border  Width="250" Background="#FF8ABFBF" VerticalAlignment="Bottom" HorizontalAlignment="Right" Padding="20" CornerRadius="10">
+
+        </Border>-->
+
+    </Grid>
+    
+   
+</Window>
